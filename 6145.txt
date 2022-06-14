@@ -1,0 +1,35 @@
+	Welcome Prayas Retail
+
+ Bill Number: 6145
+ Customer Name :Vishal
+ Phone Number : 9822735624 
+=====================================
+ Products		Qty		Price
+=====================================
+ Bath Soap		10		400
+ Face Cream		5		600
+ Powder		4		240
+ Hair Oil		2		360
+ Body Lotion		2		280
+ Hair Gel		4		720
+ Body Spray		5		1250
+ Wheat		10		2000
+ Food oil		14		1610
+ Daal		10		525
+ Rice		20		2200
+ Sugar		10		850
+ Tea		5		475
+ Detergent		5		525
+ Fruti		5		950
+ Sprite		6		570
+ Maza		4		304
+ Cock		2		310
+ Appy		5		550
+ Slice		6		570
+ Thumbsup		3		255
+-------------------------------------
+ Cosmetic Tax			Rs. 192.5
+ Grocery Tax			Rs. 818.5
+ Cold Drink Tax			Rs. 175.45
+ Total Bill :			 Rs. 16730.45
+-------------------------------------
